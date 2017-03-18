@@ -5,13 +5,12 @@ The case was **3D printed** using a [Monoprice Select Mini](https://www.monopric
 for the front and back panels, and normal, green PLA for the top and bottom parts of the case.
 
 ## Characteristics
-- **Input Voltage:** up to 19V without fan
+- **Input Voltage:** Up to 19V without fan
 - **Output Voltage:** 0-12V
 - **Output Current:** 0-600mA (see Note)
 - Adjustable current limit
 
-**Note:** current can go up to 800mA by repacing the five 10 Ohm resistors with 5 Ohm resitors and,
-optionally, choosing a different gain for the differencial amplifier.
+**Note:** Current can go up to 800mA by replacing the five 10 Ohm resistors with five 5 Ohm resistors. One should also double the gain of the differential amplifier in this case, so as to display voltage and current correctly.
 
 ![Power Supply Front](front.png)
 ![Power Supply Back](back.png)
