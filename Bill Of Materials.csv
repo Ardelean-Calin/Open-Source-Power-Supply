@@ -1,29 +1,29 @@
-"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
-1;"C1,C6,C7,C8";"CP_Radial_D5.0mm_P2.00mm";4;"10u";;;
-2;"C2";"CP_Radial_D6.3mm_P2.50mm";1;"47uF electro";;;
-3;"C3";"CP_Radial_D6.3mm_P2.50mm";1;"47u";;;
-4;"C4";"C_1210_HandSoldering";1;"4.7u";;;
-5;"C9";"C_0805_HandSoldering";1;"0.1u";;;
-6;"D1,D2,D3,D9,D10";"D_SOD-323_HandSoldering";5;"1N5819";;;
-7;"D4,D5,D6,D7,D8";"D_SOD-323_HandSoldering";5;"1N4448";;;
-8;"HS1,HS2";"Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm";2;"Heatsink";;;
-9;"HS3";"TO220-Small-16mmx8mm";1;"Heatsink";;;
-10;"J1";"bornier2";1;"Input Voltage";;;
-11;"J2";"bornier2";1;"Output Voltage";;;
-12;"J3";"bornier3";1;"Voltage Meter";;;
-13;"J4";"bornier3";1;"Current Meter";;;
-14;"R1,R2";"R_0805_HandSoldering";2;"50k";;;
-15;"R3,R4";"R_0805_HandSoldering";2;"10k";;;
-16;"R10";"R_0805_HandSoldering";1;"1k";;;
-17;"R11,R13";"R_0805_HandSoldering";2;"15";;;
-18;"R12";"R_0805_HandSoldering";1;"33";;;
-19;"R14";"R_0805_HandSoldering";1;"330";;;
-20;"RV1";"Potentiometer_Trimmer_Bourns_3296W";1;"100 (multiturn)";;;
-21;"RV2,RV3";"Potentiometer-3596S-10k-Pot";2;"10k";;;
-22;"U1";"DIP-8_W7.62mm_Socket_LongPads";1;"LT1013";;;
-23;"U2";"TO-220";1;"LT1086";;;
-24;"U3";"TO-220";1;"LM1117-ADJ";;;
-25;"U4,U5,U6";"TO-92_Inline_Narrow_Oval";3;"LM334Z";;;
-26;"U7";"DIP-8_W7.62mm_Socket_LongPads";1;"ICL7660";;;
-27;"U8";"TO-220";1;"LM7812CT";;;
-28;"R5,R6,R7,R8,R9";"R_1206_HandSoldering";5;"10";;;
+"Id","Designator","Package","Quantity","Designation","Supplier and ref"
+1,"C1,C6,C7,C8","CP_Radial_D5.0mm_P2.00mm",4,"10u",
+2,"C2","CP_Radial_D6.3mm_P2.50mm",1,"47uF electro",
+3,"C3","CP_Radial_D6.3mm_P2.50mm",1,"47u",
+4,"C4","C_1210_HandSoldering",1,"4.7u",
+5,"C9","C_0805_HandSoldering",1,"0.1u",
+6,"D1,D2,D3,D9,D10","D_SOD-323_HandSoldering",5,"1N5819",
+7,"D4,D5,D6,D7,D8","D_SOD-323_HandSoldering",5,"1N4448",
+8,"HS1,HS2","Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm",2,"Heatsink",
+9,"HS3","TO220-Small-16mmx8mm",1,"Heatsink",
+10,"J1","bornier2",1,"Input Voltage",
+11,"J2","bornier2",1,"Output Voltage",
+12,"J3","bornier3",1,"Voltage Meter",
+13,"J4","bornier3",1,"Current Meter",
+14,"R1,R2","R_0805_HandSoldering",2,"50k",
+15,"R3,R4","R_0805_HandSoldering",2,"10k",
+16,"R10","R_0805_HandSoldering",1,"1k",
+17,"R11,R13","R_0805_HandSoldering",2,15,
+18,"R12","R_0805_HandSoldering",1,33,
+19,"R14","R_0805_HandSoldering",1,330,
+20,"RV1","Potentiometer_Trimmer_Bourns_3296W",1,"100 (multiturn)",
+21,"RV2,RV3","Potentiometer-3596S-10k-Pot",2,"10k",
+22,"U1","DIP-8_W7.62mm_Socket_LongPads",1,"LT1013",
+23,"U2","TO-220",1,"LT1086",
+24,"U3","TO-220",1,"LM1117-ADJ",
+25,"U4,U5,U6","TO-92_Inline_Narrow_Oval",3,"LM334Z",
+26,"U7","DIP-8_W7.62mm_Socket_LongPads",1,"ICL7660",
+27,"U8","TO-220",1,"LM7812CT",
+28,"R5,R6,R7,R8,R9","R_1206_HandSoldering",5,10,
